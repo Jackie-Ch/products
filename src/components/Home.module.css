@@ -1,0 +1,21 @@
+.product_list {
+  display: flex;
+  justify-content: center;
+  margin-top: 90px;
+  gap: 20px;
+}
+
+.product_item {
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.product_image {
+  width: 150px;
+  margin-bottom: 20px;
+}
+
+.product_name {
+  color: black;
+}
